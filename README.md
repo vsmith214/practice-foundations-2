@@ -6,8 +6,8 @@
 2. Go to your own newly created Checkpoint 2 repository on GitHub and **clone** the repo locally. The link is also given below, and should also appear at the bottom of this page after your press the fork button.
 
 ```
-$ git clone https://github.com/YOURUSERNAME/foundations-Checkpoint-2.git
-$ cd foundations-Checkpoint-2
+$ git clone https://github.com/YOURUSERNAME/foundations-checkpoint-2.git
+$ cd foundations-checkpoint-2
 ```
 
 
