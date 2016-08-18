@@ -42,7 +42,7 @@ Total: 34 Points
 
 When you are passing all the specs, or have run out of time, commit your changes and push them up to your repository for the coding portion of the Checkpoint to be graded in Learndot.
 
-Make sure you press **Done** on the Checkpoint 2 Checkpoints Page to submit your Checkpoint when you are finished!
+Make sure you press **Done** for Checkpoint 2 on the Checkpoints Page to submit your Checkpoint when you are finished!
 
 ```
 $ git add -A
