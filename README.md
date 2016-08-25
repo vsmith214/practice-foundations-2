@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. From the Foundations Checkpoint 2 , click on the **fork** button at the bottom of this page. This will **fork** a copy of the challenge repository to your account on Github
+1. From the Foundations Checkpoint 2 , click on the **fork** button at the bottom of this page. This will **fork** a copy of the checkpoint repository to your account on Github
 2. Go to your own newly created Checkpoint 2 repository on GitHub and **clone** the repo locally. The link is also given below, and should also appear at the bottom of this page after your press the fork button.
 
 ```
