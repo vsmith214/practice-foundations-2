@@ -1,5 +1,5 @@
 
-describe("runNumTimes function - using higher order functions", function() {
+describe("runNumTimes function", function() {
 
   it("takes a function as a parameter, and runs that function num times", function() {
     var myString = "";
