@@ -4,7 +4,7 @@
 
 Create the function `reject` that takes two arguments:
 
-- arr: takes an arrat as its first argument
+- arr: takes an array as its first argument
 
 - func: takes a function as its second argument
 
