@@ -86,6 +86,8 @@ describe('Call all', function () {
 	it("detects if Function.prototype.call is used on each function in the function array", function(){
 		spyOn(Function.prototype, 'call').and.callThrough();
 
+		var obj = {};
+		
 		var fnArr = [
 			function one () {
 				return 1;
@@ -100,9 +102,9 @@ describe('Call all', function () {
 			}
 		];
 
-		callAll({}, fnArr);
+		callAll(obj, fnArr);
 
-		expect(Function.prototype.call).toHaveBeenCalled();
+		expect(Function.prototype.call).toHaveBeenCalledWith(obj);
 	});
 
 });
