@@ -9,12 +9,12 @@ describe("recursive smallest Int", function() {
   });
 
   it("Returns the smallest integer", function() {
-    var smallest = recSmallestInt([8,4,0,8,5]);
-    expect(smallest).toEqual(0);
+    var smallest = recSmallestInt([8,4,2,8,5]);
+    expect(smallest).toEqual(2);
   });
 
   it("Returns the smallest integer, when negative", function() {
-    var smallest = recSmallestInt([-5,4,0,8,5]);
+    var smallest = recSmallestInt([5,4,0,8,-5]);
     expect(smallest).toEqual(-5);
   });
 
